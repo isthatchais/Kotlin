@@ -1,3 +1,7 @@
+/*
+this class is for the checking account and has functions to show balance, and withdraw or deposit funds.
+it creates a checking object
+ */
 open class Checking (balance: Double) {
 
     open var balance = balance

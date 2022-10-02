@@ -1,3 +1,8 @@
+/*
+this class is for the savings account and has functions to show balance, and withdraw or deposit funds.
+it creates a savings object
+ */
+
 open class Savings (balance: Double) {
 
     open var balance = balance

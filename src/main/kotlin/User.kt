@@ -1,5 +1,8 @@
 import java.util.*
-
+/*
+This class is a simple user class with first name last name and ID
+it creates a user object
+ */
 
 open class User (fName: String, lName: String, id: Int){
 
